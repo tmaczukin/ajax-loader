@@ -1,3 +1,9 @@
+/**
+ * Copyright 2015 by Tomasz Maczukin <tomasz@maczukin.pl>
+ *
+ * Licensed under MIT license
+ */
+
 AjaxLoader = function (parentElement, settings) {
     var self = this;
     var loaderHeight = 16;
